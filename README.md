@@ -50,11 +50,11 @@ So, you have a list of recordings:
 - tapping `=` plays the position (ex: "thirteen") and that recording
 
 while playing:
-	- `<` rewinds,
-	- `>` fast-forwards,
-	- `-` splits clip at current point,
-	- `+` pauses (or continues when paused),
-	- `=` stops playback
+- `<` rewinds,
+- `>` fast-forwards,
+- `-` splits clip at current point,
+- `+` pauses (or continues when paused),
+- `=` stops playback
 
 So you essentially have a (to-do) list out of small audio clips,
 which you can reorder, insert into, cut up, and remove from on the fly.
